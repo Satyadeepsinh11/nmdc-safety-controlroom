@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+backend/database/safety_system.db
+.DS_Store
